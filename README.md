@@ -2,6 +2,7 @@ REPO_LOMBA
 ==========
 
 REPO_LOMBA DIES NATALIS STMIK ADHIGUNA 2013
+
 Mempersiapkan repositori lokal
 instal git
 
